@@ -1,0 +1,1 @@
+print("Men python o'rganyapman!")

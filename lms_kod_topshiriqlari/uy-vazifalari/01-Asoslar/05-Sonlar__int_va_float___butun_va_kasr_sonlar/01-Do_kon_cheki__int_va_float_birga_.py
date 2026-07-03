@@ -1,0 +1,1 @@
+mahsulot1 = "Non"

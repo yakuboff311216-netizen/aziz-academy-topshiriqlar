@@ -1,0 +1,1 @@
+talaba_ismi = "Ali Valiyev"

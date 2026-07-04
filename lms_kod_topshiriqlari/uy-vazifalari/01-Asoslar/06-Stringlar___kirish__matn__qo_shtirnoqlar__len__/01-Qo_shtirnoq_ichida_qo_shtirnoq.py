@@ -1,1 +1,2 @@
-print('U "salom" dedi')
+print("U 'salom' dedi")
+print('Kitob "Alisa" deb ataladi')

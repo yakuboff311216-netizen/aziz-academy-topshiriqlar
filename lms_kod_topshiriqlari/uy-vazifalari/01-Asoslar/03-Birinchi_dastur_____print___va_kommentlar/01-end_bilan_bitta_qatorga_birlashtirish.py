@@ -1,2 +1,2 @@
 print("Salom", end=" ")
-print("Dunyo!")
+print("dunyo!")

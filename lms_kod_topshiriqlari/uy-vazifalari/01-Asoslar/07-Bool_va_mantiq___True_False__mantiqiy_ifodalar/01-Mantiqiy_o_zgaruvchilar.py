@@ -1,1 +1,2 @@
-parol1 = "12345"
+print("Faol: True")
+print("Tasdiqlangan: False")
